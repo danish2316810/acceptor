@@ -1,9 +1,0 @@
-GET http://localhost:4004/odata/v4/my
-Authorization: Basic manish:1234
-###
-GET http://localhost:4004/odata/v4/my/$metadata
-Authorization: Basic danish:123
-###
-GET http://localhost:4004/odata/v4/my/CUSTOMERS
-Authorization: Basic danish:123
-###

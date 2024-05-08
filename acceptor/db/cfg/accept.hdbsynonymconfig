@@ -1,0 +1,8 @@
+{
+  "ACCEPTOR_ACCEPT" : {
+    "target" : {
+    "schema" : "67121D7C985C41728823FAAA6245DD24",
+    "object" : "DONOR_SALESORDERS"
+    }
+}
+}

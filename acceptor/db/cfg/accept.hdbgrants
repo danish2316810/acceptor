@@ -1,0 +1,10 @@
+{
+    "donorHdi": {
+        "object_owner": {
+             "container_roles" : ["don2#"]   
+                        },
+        "application_user": {         
+             "container_roles": ["don1"]                       
+                            }
+                  }
+}

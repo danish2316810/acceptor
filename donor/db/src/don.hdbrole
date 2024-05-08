@@ -1,0 +1,14 @@
+{
+  "role": {
+    "name": "don1",
+    
+    "schema_privileges": [
+      {
+        "privileges": [
+          "INSERT",
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}
